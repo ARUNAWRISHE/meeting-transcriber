@@ -1,0 +1,11 @@
+# Install PyTorch (CUDA build) first - see README
+faster-whisper>=1.1.0
+nvidia-cublas-cu12
+nvidia-cudnn-cu12==9.*
+streamlit
+python-docx
+sherpa-onnx
+numpy
+nemo-toolkit[asr]
+soundfile
+librosa
