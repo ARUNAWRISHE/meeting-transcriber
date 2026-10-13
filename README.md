@@ -94,3 +94,4 @@ python verify.py recording.mp4 --expect 2 --engine sortformer
 ## Licenses
 
 Check the licenses of the models you download: faster-whisper / Whisper (MIT), NVIDIA Sortformer (NVIDIA Open Model License), pyannote segmentation 3.0 and WeSpeaker (see their model cards).
+    
